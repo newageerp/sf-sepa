@@ -1,0 +1,19 @@
+{
+  "name": "newageerp/sf-sepa",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "Newageerp\\SfSepa\\": ""
+    }
+  },
+  "require": {
+    "digitick/sepa-xml": "^2.1"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arturas Jegorenkovas",
+      "email": "info@newageerp.com"
+    }
+  ]
+}
